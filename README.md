@@ -49,6 +49,7 @@ Work that needs to be done:
 - Better error handling for the project is required. All use cases need to be covered and tests need to be written.
 
 ### JRO Docs
+Link to documentation : https://blockchain4openscience.github.io/jro-docs/
 This is documentation that covers entire work done into Journal of Research Objects by me. This includes installation, structure and architecture of application. The documentation was generated using [docsify](https://docsify.js.org/).
 
 Work that needs to be done: 
